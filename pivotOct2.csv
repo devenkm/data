@@ -1,3 +1,4 @@
+symbol,open,high,low,close,date,pivot,trend
 AAPL,227.25,230,226.63,229.28,10/2/18,228.64,Going Up
 ABMD,442.92,442.92,426.39,429.17,10/2/18,432.83,In Pullback
 ADBE,274.71,277.03,271.85,272,10/2/18,273.63,In Pullback
