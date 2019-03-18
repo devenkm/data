@@ -1,26 +1,16 @@
-Stock List: ,STOCKS THAT FUNDS ARE BUYING,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-Description: ,Look at every super stock and you'll find big mutual funds buying increasingly large stakes in these top-rated companies. This screen highlights stocks to watch that are showing increasing fund ownership in recent quarters.,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-Export Date: ,"5:49 PM Eastern, Monday, March 18, 2019",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
 Symbol,Company Name,# of Funds,Price,Price Change,Price % Change,% off High,Volume,Volume % Change,Composite Rating,EPS Rating,RS Rating,SMR Rating,ACC/DIS Rating,Group Rel Str Rating,EPS % Change(Latest Qtr),EPS % Change(Prev Qtr),EPS EST % Change(Current Qtr),EPS EST % Change(Current Yr),Sales % Change(Last Qtr),Annual ROE,Annual Profit Margin (Latest Yr),Mgmt Own %,Qtrs of Rising Sponsorship
-CDNA,Caredx Inc,299,35.85,0.26,0.73,,753.0,-9,97,61,99,D,A,A,N/A,N/A,71.4,N/A,88,-12.3,-35.5,3.4,6.0
-GPMT,Granite Point Mort Trust,279,18.76,0.07,0.37,,364.0,-54,87,93,54,A,C+,C,21,48.1,17.1,9.8,43,8.0,36.1,2.1,3.0
-CSII,Cardiovascular Systems,276,39.46,-0.23,-0.58,,470.0,-13,82,38,95,D,B+,A,N/A,N/A,-400.0,N/A,14,1.4,0.8,2.8,3.0
-QTNA,Quantenna Communications,269,21.10,-0.20,-0.94,,640.0,9,99,62,95,C,A+,A,1800,21.4,366.7,56.9,52,13.2,1.8,13.5,5.0
-CYBR,Cyberark Software Ltd,257,112.31,1.13,1.02,,1096.0,18,99,99,98,A,B+,A,117,92.0,28.1,-2.9,36,18.7,21.4,37.5,4.0
-VCEL,Vericel Corporation,253,19.26,0.06,0.31,,421.0,-40,92,61,96,D,B+,A,333,N/A,71.4,N/A,41,-11.7,-23.5,4.7,6.0
-EHTH,Ehealth Inc,251,58.65,-0.67,-1.13,,420.0,-26,87,14,99,B,B+,A,3,N/A,-42.9,26.7,62,11.4,1.8,4.1,3.0
-ZS,Zscaler Inc,241,67.28,0.09,0.13,,1516.0,-19,99,73,98,D,A-,A,N/A,N/A,120.0,N/A,65,-49.0,-10.8,27.4,3.0
-NVTA,Invitae Corporation,224,24.18,-0.10,-0.41,,2178.0,22,91,33,99,D,A+,A,N/A,N/A,25.8,N/A,79,-91.2,-183.6,8.7,8.0
-ARWR,Arrowhead Pharma,214,18.88,0.26,1.40,,1443.0,-19,88,51,97,D,B+,A,N/A,N/A,205.6,N/A,887,-61.5,-337.3,4.8,5.0
-SOI,Solaris Oilfield Infra,209,16.45,-0.29,-1.73,,599.0,35,95,84,90,A,B+,B,125,292.3,35.5,13.0,128,54.3,80.3,3.0,6.0
-MIME,Mimecast Limited,204,46.37,0.32,0.69,,214.0,-67,95,73,93,C,B-,A,200,500.0,260.0,N/A,30,-0.9,2.5,29.0,8.0
-MDB,Mongodb Inc Cl A,203,137.98,3.75,2.79,,2650.0,91,90,39,99,D,B+,A,N/A,N/A,39.5,N/A,71,-29.6,-55.5,1.0,3.0
-TGE,Tallgrass Energy Lp Cl A,146,24.22,0.17,0.71,,887.0,-24,95,98,86,A,B-,C,192,40.7,44.8,34.6,26,15.5,66.0,0.0,3.0
-ATTU,Attunity Ltd,41,23.33,-0.04,-0.17,,737.0,-15,97,73,98,C,C+,A,N/A,400.0,14.3,15.4,42,18.6,3.0,20.9,3.0
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-"Screen results as of 5:49 PM Eastern, Monday, March 18, 2019",,,,,,,,,,,,,,,,,,,,,,,ided by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets.,,,,,,,,,,,,,,,,,,,,,,,
+CDNA,Caredx Inc,299,35.85,0.26,0.73,,753,-9,97,61,99,D,A,A,N/A,N/A,71.4,N/A,88,-12.3,-35.5,3.4,6
+GPMT,Granite Point Mort Trust,279,18.76,0.07,0.37,,364,-54,87,93,54,A,C+,C,21,48.1,17.1,9.8,43,8,36.1,2.1,3
+CSII,Cardiovascular Systems,276,39.46,-0.23,-0.58,,470,-13,82,38,95,D,B+,A,N/A,N/A,-400,N/A,14,1.4,0.8,2.8,3
+QTNA,Quantenna Communications,269,21.1,-0.2,-0.94,,640,9,99,62,95,C,A+,A,1800,21.4,366.7,56.9,52,13.2,1.8,13.5,5
+CYBR,Cyberark Software Ltd,257,112.31,1.13,1.02,,1096,18,99,99,98,A,B+,A,117,92,28.1,-2.9,36,18.7,21.4,37.5,4
+VCEL,Vericel Corporation,253,19.26,0.06,0.31,,421,-40,92,61,96,D,B+,A,333,N/A,71.4,N/A,41,-11.7,-23.5,4.7,6
+EHTH,Ehealth Inc,251,58.65,-0.67,-1.13,,420,-26,87,14,99,B,B+,A,3,N/A,-42.9,26.7,62,11.4,1.8,4.1,3
+ZS,Zscaler Inc,241,67.28,0.09,0.13,,1516,-19,99,73,98,D,A-,A,N/A,N/A,120,N/A,65,-49,-10.8,27.4,3
+NVTA,Invitae Corporation,224,24.18,-0.1,-0.41,,2178,22,91,33,99,D,A+,A,N/A,N/A,25.8,N/A,79,-91.2,-183.6,8.7,8
+ARWR,Arrowhead Pharma,214,18.88,0.26,1.4,,1443,-19,88,51,97,D,B+,A,N/A,N/A,205.6,N/A,887,-61.5,-337.3,4.8,5
+SOI,Solaris Oilfield Infra,209,16.45,-0.29,-1.73,,599,35,95,84,90,A,B+,B,125,292.3,35.5,13,128,54.3,80.3,3,6
+MIME,Mimecast Limited,204,46.37,0.32,0.69,,214,-67,95,73,93,C,B-,A,200,500,260,N/A,30,-0.9,2.5,29,8
+MDB,Mongodb Inc Cl A,203,137.98,3.75,2.79,,2650,91,90,39,99,D,B+,A,N/A,N/A,39.5,N/A,71,-29.6,-55.5,1,3
+TGE,Tallgrass Energy Lp Cl A,146,24.22,0.17,0.71,,887,-24,95,98,86,A,B-,C,192,40.7,44.8,34.6,26,15.5,66,0,3
+ATTU,Attunity Ltd,41,23.33,-0.04,-0.17,,737,-15,97,73,98,C,C+,A,N/A,400,14.3,15.4,42,18.6,3,20.9,3
